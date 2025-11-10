@@ -40,7 +40,7 @@ Tugas ini bertujuan untuk:
 - Breadboard & Kabel Jumper
 
 ### 2. Wiring Rangkaian
-Berikut untuk wiring rangkaian: ![Wiring rangkaian](https://drive.google.com/drive/folders/1QMOnyjjpayXEKps25HIhpetXByf-lNgA?usp=sharing)
+Berikut untuk wiring rangkaian: [Wiring rangkaian](https://drive.google.com/drive/folders/1QMOnyjjpayXEKps25HIhpetXByf-lNgA?usp=sharing)
 
 
 ### 3. Build dan Upload Program
