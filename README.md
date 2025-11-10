@@ -1,4 +1,3 @@
-# 🧠 Tugas RTOS: Multi-Core ESP32 & Peripheral Control
 **Nama  :** Akmal Rafiuddin  
 **NRP   :** 3223600041  
 **Kelas :** 3 - D4 Teknik Komputer B  
