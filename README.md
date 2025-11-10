@@ -40,8 +40,8 @@ Tugas ini bertujuan untuk:
 - LCD I2C 16x2
 - Breadboard & Kabel Jumper
 
-### 2. Skema Rangkaian
-![Skema Rangkaian](assets/images/wiring_diagram.jpg)
+### 2. Wiring Rangkaian
+Berikut untuk wiring rangkaian: ![Wiring rangkaian](https://drive.google.com/drive/folders/1QMOnyjjpayXEKps25HIhpetXByf-lNgA?usp=sharing)
 
 
 ### 3. Build dan Upload Program
@@ -60,12 +60,7 @@ Tugas ini bertujuan untuk:
 ---
 
 ## 🎥 Dokumentasi Percobaan
-### 📸 Gambar
-![Hasil Percobaan](assets/images/hasil_output.jpg)
-
-### 🎬 Video
-Klik tautan berikut untuk melihat video percobaan:  
-👉 [Video Hasil Percobaan](assets/videos/percobaan.mp4)
+Video hasil percobaan terdapat pada link berikut: [Video hasil percobaan](https://drive.google.com/drive/folders/1GL3IrCreWmmQWdM-XVMECljDturs_isI?usp=sharing)
 
 ---
 
